@@ -28,6 +28,7 @@ FLATPAK_PACKAGES=(
     "com.usebruno.Bruno"
     "io.dbeaver.DBeaverCommunity"
     "com.brave.Browser"
+    "md.obsidian.Obsidian"
 )
 
 # 5. RPM Packages to Remove (if necessary)
